@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋 I'm Maleesha Weerasooriya
 
-<!--
-**maleesha02/maleesha02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bachelor of Computing in Software Engineering Undergraduate
+💻 Full Stack MERN Developer
+🌱 Currently learning DevOps & Cloud Technologies
+📍 Sri Lanka
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Passionate about Software Engineering
+- 🚀 Interested in Full Stack Development
+- 🤖 Exploring AI & Machine Learning
+- 🌱 Currently working on MERN applications
+- 📚 Learning Docker, CI/CD, and Cloud Deployment
+
+## Tech Stack
+
+Frontend:
+React | Tailwind CSS | JavaScript | HTML | CSS
+
+Backend:
+Node.js | Express.js | REST APIs
+
+Database:
+MongoDB | MySQL | PostgreSQL
+
+Tools:
+Git | GitHub | Docker | Postman | VS Code | Figma
+
+## Connect With Me
+
+LinkedIn
+Portfolio
+Email
