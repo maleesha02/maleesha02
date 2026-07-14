@@ -198,7 +198,7 @@
 
 ## 💡 Developer Philosophy
 
-> **"Great software isn't just code—it's solving real problems with clean design, continuous learning, and thoughtful engineering."**
+> **"Great software isn't just code - it's solving real problems with clean design, continuous learning, and thoughtful engineering."**
 
 ⭐ **If you like my work, consider starring my repositories!**
 
