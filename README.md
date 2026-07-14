@@ -29,6 +29,6 @@ Git | GitHub | Docker | Postman | VS Code | Figma
 
 ## Connect With Me
 
-LinkedIn
+LinkedIn - www.linkedin.com/in/maleesha-weerasooriya
 Portfolio
 Email
